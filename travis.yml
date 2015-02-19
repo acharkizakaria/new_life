@@ -1,14 +1,20 @@
 language: ruby
-cache: bundler
-
 rvm:
-  - 2.0.0
+ - 1.8.7
+ - 1.9.2
+ - 1.9.3
+ - jruby-18mode
+ - jruby-19mode
+ - rbx-18mode
+ - rbx-19mode
 
 script: 'bundle exec rake'
 
 notifications:
-  email:
-    recipients:
-      - acharki.zakaria@gmail.com
-    on_failure: change
-    on_success: never
+  disabled: true
+
+#  email:
+#    recipients:
+#      - acharki.zakaria@gmail.com
+#    on_failure: change
+#    on_success: never
