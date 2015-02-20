@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{First gem just for tuto}
   spec.description   = %q{If hour > 12 Gem say 'Go to the bed!!'}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/Acharkizakaria/new_life/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }

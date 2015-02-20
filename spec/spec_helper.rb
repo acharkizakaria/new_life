@@ -1,5 +1,5 @@
 require 'coveralls'
 Coveralls.wear!
 
-require 'pry'
-require 'sinderella'
+#require 'pry'
+require 'new_life'
