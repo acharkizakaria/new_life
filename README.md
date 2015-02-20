@@ -3,7 +3,6 @@
 [![Gem Version](https://badge.fury.io/rb/new_life.svg)](http://badge.fury.io/rb/new_life)
 [![Build Status](https://travis-ci.org/Acharkizakaria/new_life.svg?branch=master)](https://travis-ci.org/Acharkizakaria/new_life)
 [![Test Coverage](https://codeclimate.com/github/Acharkizakaria/new_life/badges/coverage.svg)](https://codeclimate.com/github/Acharkizakaria/new_life)
-#[![Coverage Status](https://coveralls.io/repos/Acharkizakaria/new_life/badge.svg)](https://coveralls.io/r/Acharkizakaria/new_life)
 [![Inline docs](http://inch-ci.org/github/Acharkizakaria/new_life.svg?branch=master)](http://inch-ci.org/github/Acharkizakaria/new_life)
 [![Code Climate](https://codeclimate.com/github/Acharkizakaria/new_life/badges/gpa.svg)](https://codeclimate.com/github/Acharkizakaria/new_life)
 [![Join the chat at https://gitter.im/Acharkizakaria/new_life](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Acharkizakaria/new_life?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
