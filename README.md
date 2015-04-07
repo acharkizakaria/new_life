@@ -1,7 +1,6 @@
 # New Life
 
 [![Gem Version](https://badge.fury.io/rb/new_life.svg)](http://badge.fury.io/rb/new_life)
-[![Build Status](https://travis-ci.org/Acharkizakaria/new_life.svg?branch=master)](https://travis-ci.org/Acharkizakaria/new_life)
 [![Test Coverage](https://codeclimate.com/github/Acharkizakaria/new_life/badges/coverage.svg)](https://codeclimate.com/github/Acharkizakaria/new_life)
 [![security](https://hakiri.io/github/acharkizakaria/new_life/master.svg)](https://hakiri.io/github/acharkizakaria/new_life/master)
 [![Inline docs](http://inch-ci.org/github/Acharkizakaria/new_life.svg?branch=master)](http://inch-ci.org/github/Acharkizakaria/new_life)
